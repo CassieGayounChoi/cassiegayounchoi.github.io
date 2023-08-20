@@ -13,31 +13,42 @@ output: html_document
 </p>
 <br>
 
-🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE DATA KORLAB COMMUNITY.* 
 <br><br><br>
 👋🏽 Hello, my name is Gayoun Choi.
 
-🎓 Soon to be grad with a M.S. in Data Science at ABC University. (May 2022)
+💼 B2B Marketing Specialist at Nespresso Korea, specially focus on marketing communication. 
 
-🌇 New York City Native, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
+Contributing to secure premium brand image as leading coffee brand in the market by executing of all online and offline marketing activities
 
-📚 **Talk about your past experience, your present experience, and what you did (about 4-5 sentences)**
+🎓 Graduated from Dongguk University (Seoul, Korea) in the Bachelor of Business Administration (Aug 2019)
 
-...
+<br>
+💼 **Work Experience**
 
-💻 **Talk about what you want to do in the future (2 sentences)**
+Nespresso Korea - B2B Marketing Specialist (Aug 2023~)
 
-e.g. 💻 As for my future, I hope to one day work as a data analyst/scientist/engineer role and work with a marketing team.
+• Plan and execute media campaign for global product launch
 
-🏔 **Talk about hobbies(1 sentence)**
+• Evaluate media efficiency and seek for improvement using Google Analytics
 
-e.g. 🏔In my free time, you can find me rock climbing.
+• Enhance digital customer journey with seamless operation
 
-💪 **Highlight your strengths, use keywords (5-6)**
+• B2B inventory and PO management
 
-e.g. 💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
+• Co-work with Marketing team to ensure OOH brand visibility in the market
 
-+ Programming: Python, R
-+ Data visualization: Tableau Software, Power BI
-+ Database: SQL, Postgre SQL, MongoDB, Neo4j
-+ Cloud Computing: AWS, GCP (BigQuery), Azure
+<br>
+KPR & Associates - Senior Account Executive (Nov 2019~June 2023: 3 years 8 months)
+
+• Coordinated digital brand communication with a data-driven focus for multiple channels for clients: KIA, POSCO, Kakaobank
+
+• Analyze website user traffic using Adobe/Google Analytics and provide semiannual/annual reports
+
+<br>
+💪 **Skills**
+
+• Language: fluent in English (lived in the UK for a year and in the US for 6 months) and Chinese (lived in Shanghai for 10 years)
+
+• Tool: familiar with Google Analytics,Adobe Analytics, and Excel
+
+• Programming: Python, R
