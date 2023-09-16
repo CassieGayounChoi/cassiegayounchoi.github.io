@@ -17,12 +17,8 @@ output:
 ## **Predicting Customer Lifetime Value Using Regression and ML with Python**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
-![](https://img.shields.io/badge/-LASSO-red)
-![](https://img.shields.io/badge/-XGBoost-success)
 
 <br>
-
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
 
 <br><br><br>
 
