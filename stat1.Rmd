@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Predicting House Prices in Iowa**
+## **Predicting Customer Lifetime Value Using Regression and ML with Python**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
 ![](https://img.shields.io/badge/-LASSO-red)
@@ -55,7 +55,7 @@ To predict the final price of each home using 79 explanatory variables describin
 
 ### 4. Code
 
-Please click [HERE](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/gayounchoi/gayounchoi.github.io/blob/main/files/Predicting_CLV_using_regression_and_ML.ipynb) for the analysis report and code.
 
 <br>
 
