@@ -16,5 +16,5 @@ output: html_document
 ##### B2B Marketing Specialist | Nespresso <img src="images/company_logo.jpeg" style="width:20%;" align="right">
 
 📍 Seoul <br>
-📱 (82) 010 - 4824 - 0506 <br>
+📱 (82) 10 - 4824 - 0506 <br>
 ✉️ [choigayounwork@gmail.com](mailto:choigayounwork@gmail.com) <br>
