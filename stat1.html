@@ -432,25 +432,43 @@ with Python</strong></h2>
 </div>
 <div id="goal" class="section level3">
 <h3>2. Goal</h3>
-<p>To predict the final price of each home using 79 explanatory
-variables describing (almost) every aspect of residential homes in Ames,
-Iowa.</p>
+<ul>
+<li>Predicting behavior to retain customers.</li>
+<li>Analyzing all relevant customer data and develop focused customer
+retention programs to understand customer demographics and buying
+behavior.</li>
+<li>Using predictive analytics to analyze the most profitable customers
+and how they interact.</li>
+<li>Taking targeted actions to increase profitable customer response,
+retention, and growth.</li>
+</ul>
 <p><br></p>
 </div>
 <div id="methodology-summary" class="section level3">
 <h3>3. Methodology &amp; Summary</h3>
 <ul>
-<li>LASSO regressions showed the best performance with a cross
-validation RMSE-score of 0.1121. Although there is a lot of
-multicollinearity among the variables, LASSO regression include feature
-selection; it does not select a substantial number of the available
-variables in its model, as it is supposed to do.</li>
-<li>The XGBoost model also performs very well with a cross validation
-RMSE of 0.1162.</li>
-<li>As those two algorithms are very different, averaging predictions is
-likely to improve the predictions. As the Lasso cross validated RMSE is
-better than XGBoost’s CV score, I decided to weight the Lasso results
-double.</li>
+<li><p>The dataset, derived from IBM Marketing Data, aims to predict
+customer value using regression and machine learning models. The main
+objective is to predict customer behaviors to bolster retention.
+Comprehensive analysis of the customer data aids in tailoring retention
+programs based on specific demographics and purchasing habits. Moreover,
+predictive analytics were employed to deeply understand the interactions
+of the most profitable customers. Specific strategic actions were then
+initiated to enhance the engagement and growth of these profitable
+customers.</p></li>
+<li><p>During the preprocessing and exploratory data analysis phase, the
+dataset was found to be complete with no missing values. Our modeling
+strategy encompassed three types of linear regression models: one with
+the original customer value, another with a log-transformed customer
+value, and the third with a square-root transformed customer value.
+Additionally, Random Forest and Gradient Boosting models were employed
+for predictions.</p></li>
+<li><p>In terms of model evaluation, the RMSE was the primary metric of
+performance. While the log-transformed and square-root transformed
+models exhibited a lower RMSE, they were discarded due to violations of
+key modeling assumptions. Ultimately, the Random Forest model,
+displaying the lowest RMSE without any assumption breaches, was selected
+as the final model.</p></li>
 </ul>
 <p><br></p>
 </div>
