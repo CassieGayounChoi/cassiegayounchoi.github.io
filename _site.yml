@@ -13,6 +13,8 @@ navbar:
       menu: 
       - text: "Predicting CLV Using Regression/ML"
         href: stat1.html
+      - text: "Enhancing the KIA VR showroom's UX/UI using Google Analytics"
+        href: stat2.html
     - text: "DB/SQL"
       menu: 
       - text: "Movie Explorer"

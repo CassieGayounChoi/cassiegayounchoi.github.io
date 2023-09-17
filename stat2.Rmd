@@ -14,25 +14,23 @@ output:
 
 <br><br><br>
 
-## **Predicting Airbnb Prices in NYC**
+## **Enhancing the KIA VR showroom's UX/UI using Google Analytics**
 
-![](https://img.shields.io/badge/Using-Python-blue)
-![](https://img.shields.io/badge/-LASSO-red)
-![](https://img.shields.io/badge/-XGBoost-success)
+![](https://img.shields.io/badge/Using-GoogleAnalytics-orange)
 
 <br>
-
-🚨**THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE STEPBYSTAT COMMUNITY.**
 
 <br><br><br>
 
 ### 1. Figure
+<br>
+
 
 <p align="center">
-<img src="images/predict_houseprice.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/vr showroom exterior.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Fig. LASSO regression features by importance]
+[Image. KIA Global VR Showroom - KIA India, Carens]
 </p>
 
 
@@ -41,21 +39,31 @@ output:
 <br><br>
 
 ### 2. Goal
-To predict the final price of each home using 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+Enhanced the live user experience on the VR Showroom during COVID-19 when offline experiences were restricted and maintained customer connection to Kia, resulting in potential sales. 
 
 <br>
 
-### 3. Methodology & Summary
+### 3. Project Details
 
-  + LASSO regressions showed the best performance with a cross validation RMSE-score of 0.1121. Although there is a lot of multicollinearity among the variables, LASSO regression include feature selection; it does not select a substantial number of the available variables in its model, as it is supposed to do.
-  + The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
-  + As those two algorithms are very different, averaging predictions is likely to improve the predictions. As the Lasso cross validated RMSE is better than XGBoost's CV score, I decided to weight the Lasso results double.
+- Created UX/UI sample documents which were then presented to over 10 local managers
+- Managed over 30 countries launch schedules in4 regions with using the management tool notion
+- Analyzed user data using adobe Analytics andGoogle Analytics in 4 regions (India, Mexico, Middle East Africa and South America)
+- Cooperated with developers and UX designers to optimize the customer journey
+
 
 <br>
 
-### 4. Code
+### 4. Project Results
 
-Please click [HERE](https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda/report) for the analysis report and code.
+- Increased online booking rates by 5.7x on average through adding a ‘Book Online' button from 1.0 – 2.0, leading to higher customer engagement
+- Improved average time spent in VR Showrooms by 68% through UX and UI updates from 1.0 - 2.0
+- Expanded to the Asia Pacific region, persuading 2 out of 4 countries and increasing team’s profits by 27% through further UX and UI updates, 2.0 - 3.0
+
+<br>
+
+### 5. Deployment
+
+Please click [HERE](https://www.kia.com/in/vr/showroom/index.html#/showroom) and explore KIA Global VR Showroom in Inida as an example.
 
 <br>
 
