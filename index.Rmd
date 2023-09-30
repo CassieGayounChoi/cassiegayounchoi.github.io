@@ -14,50 +14,46 @@ output: html_document
 <br>
 
 ## **Hello, I'm Gayoun Choi,**
-### **a global data-driven marketer**
+### **a data-driven global marketer**
 <br>
 
 #### **👋🏻 About me**
-Global data-driven marketer with 4 years of experience executing B2C/B2B marketing strategies across multiple online/offline brand channels in various countries to enhance brand experience and generate sales leads.
+Data-driven global marketer with 4 years of experience executing B2C/B2B marketing strategies across multiple online/offline brand channels in various countries to enhance brand experience and generate sales leads.
 
-Born in Korea, lived in Shanghai, China 🇨🇳 for 10 years, London, UK 🇬🇧for a year, and New York, US 🇺🇸 for 6 months
+Born in Korea 🇰🇷, lived in Shanghai, China 🇨🇳 for 10 years, London, UK 🇬🇧 for a year, and New York, US 🇺🇸 for 6 months.
+
+<br>
+
+#### **💼 Career path [View CV](files/CV_Gayoun Choi.pdf)**
+
+**• Aug 2023 – Present: B2B Marketing Specialist, Nestlé Korea, Nespresso (Seoul, Korea)**
+
+Execute data-driven online/offline brand strategies to secure premium coffee brand image
+
+**• Nov 2019 – June 2023: Senior Account Executive, KPR & Associates (Seoul, Korea)**
+
+Coordinated digital brand communication with a data-driven focus for multiple channels for clients: KIA, POSCO (world's largest steelmaker), Kakaobank (Korea's top online bank)
+
+**• Mar 2018 – Aug 2018: Marketing and E-commerce Intern, Basic Outfitters (New York, US)**
+
+Supported customer/website data analysis and planned promotional events on e-commerce website
 
 <br>
 
-#### **💼 Career path**
+#### **💪 Skills**
 
-Nespresso Korea - B2B Marketing Specialist (Aug 2023~)
+• Languages: Native in Korean, fluent in English and Chinese
 
-• Plan and execute media campaign for global product launch
-
-• Evaluate media efficiency and seek for improvement using Google Analytics
-
-• Enhance digital customer journey with seamless operation
-
-• B2B inventory and PO management
-
-• Co-work with Marketing team to ensure OOH brand visibility in the market
-
-<br>
-KPR & Associates - Senior Account Executive (Nov 2019~June 2023: 3 years 8 months)
-
-• Coordinated digital brand communication with a data-driven focus for multiple channels for clients: KIA, POSCO, Kakaobank
-
-• Analyze website user traffic using Adobe/Google Analytics and provide semiannual/annual reports
-
-<br>
-💪 **Skills**
-
-• Languages: Native in Korean 🇰🇷, fluent in English 🇬🇧 (lived in the UK for a year and in the US for 6 months) and Chinese 🇨🇳 (lived in Shanghai for 10 years)
-
-• Tools: familiar with Google Analytics, Adobe Analytics, and Excel
+• Analytics tools: familiar with Google Analytics, Adobe Analytics, and Excel
 
 • Programming: Python, R, and SQL
 
 <br>
-🎓 **Education**
+
+#### **🎓 Education**
 
 • Undergraduate: Bachelor of Business Administration, Dongguk University (Seoul, Korea)
+
 Merit Based Scholarship recipient in 2015 and 2016 (GPA 3.83/4.5)
 
 • Exchange program: Business and marketing exchange student, Keele University (England, UK)
