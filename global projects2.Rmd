@@ -26,7 +26,7 @@ output:
 <br><br>
 
 <p align="center">
-<img src="images/ev6.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/ev6.png" style="width:90%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 [Image] [Kia EV6 Driving Centre](https://worldwide.kia.com/int/VR-driving-center/index.html#/intro)
