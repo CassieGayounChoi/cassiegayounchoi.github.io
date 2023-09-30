@@ -9,23 +9,30 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile_emoji.jpeg" style="width:50%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/profile_emoji.jpeg" style="width:60%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <br>
 
 <br><br>
 
 ## **Hello, I'm Gayoun Choi,**
-### **a data-driven B2C/B2B marketer**
+## **a global data-driven marketer**
+<br>
 
-💼 B2B Marketing Specialist at Nespresso Korea, specially focus on marketing communication. 
+#### **👋🏻 About me**
+Global data-driven marketer with 4 years of experience executing B2C/B2B marketing
 
-Contributing to secure premium brand image as leading coffee brand in the market by executing of all online and offline marketing activities
+strategies across multiple online/offline brand channels in various countries
 
-🎓 Graduated from Dongguk University (Seoul, Korea) in the Bachelor of Business Administration (Aug 2019)
+to enhance brand experience and generate sales leads.
+
+Born in Korea, lived in Shanghai, China 🇨🇳 for 10 years, London, UK 🇬🇧for a year, 
+
+and New York, US 🇺🇸 for 6 months
 
 <br>
-💼 **Work Experience**
+
+#### **💼 Career path**
 
 Nespresso Korea - B2B Marketing Specialist (Aug 2023~)
 
@@ -49,8 +56,16 @@ KPR & Associates - Senior Account Executive (Nov 2019~June 2023: 3 years 8 month
 <br>
 💪 **Skills**
 
-• Language: fluent in English (lived in the UK for a year and in the US for 6 months) and Chinese (lived in Shanghai for 10 years)
+• Languages: Native in Korean 🇰🇷, fluent in English 🇬🇧 (lived in the UK for a year and in the US for 6 months) and Chinese 🇨🇳 (lived in Shanghai for 10 years)
 
-• Tool: familiar with Google Analytics,Adobe Analytics, and Excel
+• Tools: familiar with Google Analytics, Adobe Analytics, and Excel
 
-• Programming: Python, R
+• Programming: Python, R, and SQL
+
+<br>
+🎓 **Education**
+
+• Undergraduate: Bachelor of Business Administration, Dongguk University (Seoul, Korea)
+Merit Based Scholarship recipient in 2015 and 2016 (GPA 3.83/4.5)
+
+• Exchange program: Business and marketing exchange student, Keele University (England, UK)
