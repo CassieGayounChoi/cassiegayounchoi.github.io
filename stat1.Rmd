@@ -14,7 +14,7 @@ output:
 
 <br><br><br>
 
-## **Predicting Customer Lifetime Value Using Regression and ML with Python**
+## **Predicting Customer Lifetime Value Using Regression and ML**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
 
@@ -22,7 +22,7 @@ output:
 
 <br><br><br>
 
-### 1. Figure
+### **1. Figure**
 
 <p align="center">
 <img src="images/stat bar plot.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
@@ -31,7 +31,7 @@ output:
 
 <br><br>
 
-### 2. Goal
+### **2. Goal**
 
   + Predicting behavior to retain customers.
   + Analyzing all relevant customer data and develop focused customer retention programs to understand customer demographics and buying behavior.
@@ -40,7 +40,7 @@ output:
 
 <br>
 
-### 3. Methodology & Summary
+### **3. Methodology & Summary**
 
   + The dataset, derived from IBM Marketing Data, aims to predict customer value using regression and machine learning models. The main objective is to predict customer behaviors to bolster retention. Comprehensive analysis of the customer data aids in tailoring retention programs based on specific demographics and purchasing habits. Moreover, predictive analytics were employed to deeply understand the interactions of the most profitable customers. Specific strategic actions were then initiated to enhance the engagement and growth of these profitable customers.
 
@@ -50,7 +50,7 @@ output:
 
 <br>
 
-### 4. Code
+### **4. Code**
 
 Please click [HERE](https://nbviewer.org/github/gayounchoi/gayounchoi.github.io/blob/main/files/Predicting_CLV_using_regression_and_ML.ipynb) for the analysis report and code.
 
