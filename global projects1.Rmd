@@ -73,7 +73,7 @@ output:
 
 ### **4. Deployment**
 
-Please click [HERE](https://www.kia.com/in/vr/showroom/index.html#/showroom) and explore KIA Global VR Showroom in India as an example.
+- Please click [HERE](https://www.kia.com/in/vr/showroom/index.html#/showroom) and explore KIA Global VR Showroom in India as an example.
 
 <br>
 
