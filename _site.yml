@@ -25,6 +25,9 @@ navbar:
         href: stat2.html
     - text: "Content/Campaigns"
       menu: 
+      - text: "Kia Global VR showroom"
+        href: stat2.html
+        
       - text: "Kia Magazine"
         href: visualization1.html
         
