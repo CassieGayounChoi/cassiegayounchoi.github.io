@@ -14,10 +14,10 @@ navbar:
       - text: "Predicting CLV Using Regression/ML"
         href: stat1.html
     - text: "Global Projects"
-      memu:
-      - text: "Kia global VR showroom"
-        href: stat2.html
-        
+      menu: 
+      - text: "Kia Global VR showroom"
+        href: stat2.html        
+    
       - text: "Kia EV6 Driving Centre"
         href: stat2.html
         
@@ -39,6 +39,7 @@ navbar:
         
       - text: "Kakaobank Mini Card Campaign"
         href: visualization1.html
+        
   right:
     - icon: fas fa-envelope
       href: contact.html
