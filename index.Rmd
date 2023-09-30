@@ -16,7 +16,7 @@ output: html_document
 <br><br>
 
 ## **Hello, I'm Gayoun Choi,**
-## **a global data-driven marketer**
+### **a global data-driven marketer**
 <br>
 
 #### **👋🏻 About me**
