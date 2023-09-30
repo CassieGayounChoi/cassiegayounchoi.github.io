@@ -14,37 +14,59 @@ output:
 
 <br><br><br>
 
-## **Kia Magazine**
+## **POSCO 'Po Seok Ho' brand character launch**
+
+![](https://img.shields.io/badge/Brand Communication-grey)
+![](https://img.shields.io/badge/Social Media-grey)
+
+<br><br>
+
+<p align="center">
+<img src="images/POSCO IG.png" style="width:50%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image] [POSCO INSTAGRAM](https://www.instagram.com/hello_posco/?hl=ko)
+</p>
+
+<p align="center">
+<img src="images/poso.png" style="width:60%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image. left] 'Po Seok Ho’ statues in Park1538, 
+POSCO's culture park located in Pohang, Korea
+
+[Image.right] [POSCO Recruiting Shorts](https://www.youtube.com/watch?v=ANh1_OnG0lM)
+</p>
+
+<br><br>
+
+### **1. Goal**
+
+- Successfully targeted Gen Z and improved the image of a B2B steel company by utilising its newly-launched brand character, 'Po Seok Ho’, to enhance communication through social media channels.
 
 <br>
-** #Global_Marketing #Brand_Communication #Content_Planning #Editing**
-**Delivered Kia’s latest brand news, partnerships, and vehicle information through Korean and English articles on the Kia Worldwide website**
 
-<br><br><br>
+### **2. Project Details**
 
-### 1. Screenshot of Dashboard
-
-<p align="center">
-<img src="images/squid_game.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-</p>
-<p align="center">
-</p>
-
-<br><br><br>
-
-### 2. Summary
-
-+ Squid Game is a South Korean survival drama television series streaming on Netflix.
-+ The series runs a contest where 456 players, and all of them are in debt, thereby playing multiple different types of children's games.
-+ The players soon realize that being eliminated means death, and prize money accrued as more and more people die.
-+ Game 1 an extremely lethl version of Red Light, Green Light, where anyone caught moving is shot dead on the spot. It generated the most casualites, 255 people, as `elimination=death` rule was not informed to the players beforehand.
-
-<br><br><br>
-
-### 3. Tableau Public
-
-For more insights, please check my Tableau Public by clicking [HERE](https://public.tableau.com/app/profile/davidhoskins/viz/SquidGameWARNINGMAJORSPOILERS/SquidGame).
+- Launched 'Po Seok Ho', POSCO's first official brand character by researching other company's brand characters aligned with the brand's voice.
+- As an Instagram channel manager, managed the quality and schedule of 751 pieces of Instagram content using 'Po Seok Ho'.
+- Produced YouTube videos and outdoor branding materials collaborating with film productions and partner companies.
 
 
+<br>
 
+### **3. Project Results**
+
+- Resulted in a 74% increase in interactions and a 105% increase in followers on Instagram YoY.
+- Selected as Winner of Golden World Awards 2022 in the Social Media Category Held by the International Public Relations Association. [HERE](https://newsroom.posco.com/en/posco-was-selected-as-winner-of-golden-world-awards-2022-in-the-social-media-category-held-by-the-international-public-relations-association/)
+- Received 2021 Gold Steve Awards for innovation in the use of social media. [HERE](https://www.asia.stevieawards.com/node/1243)
+
+
+<br>
+
+### **4. Deployment**
+
+- Please click [POSCO INSTAGRAM](https://www.instagram.com/hello_posco/?hl=ko) , [POSCO YOUTUBE](https://www.youtube.com/channel/UCGu-RtRyCaWQl32YoOh4WNg) and explore 'Po Seok Ho's stories with POSCO
+
+<br>
 
