@@ -13,7 +13,7 @@ output: html_document
 </p>
 <br>
 
-## **Hello, I'm Gayoun Choi,**
+## **Hi, I'm Gayoun Choi,**
 ### **a data-driven global marketer**
 <br>
 
