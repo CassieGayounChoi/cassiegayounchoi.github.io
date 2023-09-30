@@ -17,18 +17,23 @@ navbar:
       memu:
       - text: "Kia global VR showroom"
         href: stat2.html
+        
       - text: "Kia EV6 Driving Centre"
         href: stat2.html
+        
       - text: "Kia Worldwide Content Management"
         href: stat2.html
     - text: "Content/Campaigns"
       menu: 
       - text: "Kia Magazine"
         href: visualization1.html
+        
       - text: "Kia Product Information Page"
         href: visualization1.html
+        
       - text: "POSCO 'Po Seok Ho' brand character launch"
         href: visualization1.html
+        
       - text: "Kakaobank Mini Card Campaign"
         href: visualization1.html
   right:
