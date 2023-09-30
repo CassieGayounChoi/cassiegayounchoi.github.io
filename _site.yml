@@ -13,6 +13,16 @@ navbar:
       menu: 
       - text: "Predicting CLV Using Regression/ML"
         href: stat1.html
+    - text:"Global Projects"
+      memu:
+      - text: "Kia global VR showroom"
+        href: stat2.html
+        
+      - text: "Kia EV6 Driving Centre"
+        href: stat2.html
+        
+      - text: "Kia Worldwide Content Management"
+        href: stat2.html
     - text: "Content/Campaigns"
       menu: 
       - text: "Kia Magazine"
