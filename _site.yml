@@ -23,7 +23,7 @@ navbar:
       menu: 
       - text: "Kia Worldwide Content Management"
         href: stat2.html
-    - text: "Content & Campaigns"
+    - text: "Content/Campaigns"
       menu: 
       - text: "Kia Magazine"
         href: visualization1.html
