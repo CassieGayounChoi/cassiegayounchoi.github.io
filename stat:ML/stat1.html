@@ -11,7 +11,7 @@
 
 
 
-<title>Data Visualization</title>
+<title>Stat/ML</title>
 
 <script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -350,13 +350,13 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="stat2.html">Kia Global VR showroom</a>
+      <a href="global projects1.html">Kia Global VR showroom</a>
     </li>
     <li>
-      <a href="stat2.html">Kia EV6 Driving Centre</a>
+      <a href="global projects2.html">Kia EV6 Driving Centre</a>
     </li>
     <li>
-      <a href="stat2.html">Kia Worldwide Content Management</a>
+      <a href="global projects3.html">Kia Worldwide Content Management</a>
     </li>
   </ul>
 </li>
@@ -368,19 +368,16 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="stat2.html">Kia Global VR showroom</a>
+      <a href="contentcampaign1.html">Kia Magazine</a>
     </li>
     <li>
-      <a href="visualization1.html">Kia Magazine</a>
+      <a href="contentcampaign2.html">Kia Product Information Page</a>
     </li>
     <li>
-      <a href="visualization1.html">Kia Product Information Page</a>
+      <a href="contentcampaign3.html">POSCO 'Po Seok Ho' brand character launch</a>
     </li>
     <li>
-      <a href="visualization1.html">POSCO 'Po Seok Ho' brand character launch</a>
-    </li>
-    <li>
-      <a href="visualization1.html">Kakaobank Mini Card Campaign</a>
+      <a href="contentcampaign4.html">Kakaobank Mini Card Campaign</a>
     </li>
   </ul>
 </li>
@@ -426,43 +423,69 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/></p>
 <p><br><br><br></p>
-<div id="squid-game-elimination-analysis" class="section level2">
-<h2><strong>Squid Game Elimination Analysis</strong></h2>
-<p><img
-src="https://img.shields.io/badge/Using-Tableau%20Software-red" /></p>
+<div id="predicting-customer-lifetime-value-using-regression-and-ml"
+class="section level2">
+<h2><strong>Predicting Customer Lifetime Value Using Regression and
+ML</strong></h2>
+<p><img src="https://img.shields.io/badge/Using-Python-blue" /></p>
 <p><br></p>
-<p>🚨<strong>THIS IS A FICTIONAL PROJECT MEANT AS AN EXAMPLE FOR THE
-STEPBYSTAT COMMUNITY.</strong></p>
 <p><br><br><br></p>
-<div id="screenshot-of-dashboard" class="section level3">
-<h3>1. Screenshot of Dashboard</h3>
+<div id="figure" class="section level3">
+<h3><strong>1. Figure</strong></h3>
 <p align="center">
-<img src="images/squid_game.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/stat%20bar%20plot.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
-<p align="center">
-</p>
-<p><br><br><br></p>
+<p><br></p>
+<p><br><br></p>
 </div>
-<div id="summary" class="section level3">
-<h3>2. Summary</h3>
+<div id="goal" class="section level3">
+<h3><strong>2. Goal</strong></h3>
 <ul>
-<li>Squid Game is a South Korean survival drama television series
-streaming on Netflix.</li>
-<li>The series runs a contest where 456 players, and all of them are in
-debt, thereby playing multiple different types of children’s games.</li>
-<li>The players soon realize that being eliminated means death, and
-prize money accrued as more and more people die.</li>
-<li>Game 1 an extremely lethl version of Red Light, Green Light, where
-anyone caught moving is shot dead on the spot. It generated the most
-casualites, 255 people, as <code>elimination=death</code> rule was not
-informed to the players beforehand.</li>
+<li>Predicting behavior to retain customers.</li>
+<li>Analyzing all relevant customer data and develop focused customer
+retention programs to understand customer demographics and buying
+behavior.</li>
+<li>Using predictive analytics to analyze the most profitable customers
+and how they interact.</li>
+<li>Taking targeted actions to increase profitable customer response,
+retention, and growth.</li>
 </ul>
-<p><br><br><br></p>
+<p><br></p>
 </div>
-<div id="tableau-public" class="section level3">
-<h3>3. Tableau Public</h3>
-<p>For more insights, please check my Tableau Public by clicking <a
-href="https://public.tableau.com/app/profile/davidhoskins/viz/SquidGameWARNINGMAJORSPOILERS/SquidGame">HERE</a>.</p>
+<div id="methodology-summary" class="section level3">
+<h3><strong>3. Methodology &amp; Summary</strong></h3>
+<ul>
+<li><p>The dataset, derived from IBM Marketing Data, aims to predict
+customer value using regression and machine learning models. The main
+objective is to predict customer behaviors to bolster retention.
+Comprehensive analysis of the customer data aids in tailoring retention
+programs based on specific demographics and purchasing habits. Moreover,
+predictive analytics were employed to deeply understand the interactions
+of the most profitable customers. Specific strategic actions were then
+initiated to enhance the engagement and growth of these profitable
+customers.</p></li>
+<li><p>During the preprocessing and exploratory data analysis phase, the
+dataset was found to be complete with no missing values. Our modeling
+strategy encompassed three types of linear regression models: one with
+the original customer value, another with a log-transformed customer
+value, and the third with a square-root transformed customer value.
+Additionally, Random Forest and Gradient Boosting models were employed
+for predictions.</p></li>
+<li><p>In terms of model evaluation, the RMSE was the primary metric of
+performance. While the log-transformed and square-root transformed
+models exhibited a lower RMSE, they were discarded due to violations of
+key modeling assumptions. Ultimately, the Random Forest model,
+displaying the lowest RMSE without any assumption breaches, was selected
+as the final model.</p></li>
+</ul>
+<p><br></p>
+</div>
+<div id="code" class="section level3">
+<h3><strong>4. Code</strong></h3>
+<p>Please click <a
+href="https://nbviewer.org/github/gayounchoi/gayounchoi.github.io/blob/main/files/Predicting_CLV_using_regression_and_ML.ipynb">HERE</a>
+for the analysis report and code.</p>
+<p><br></p>
 </div>
 </div>
 

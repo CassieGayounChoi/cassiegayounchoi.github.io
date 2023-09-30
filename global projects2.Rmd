@@ -1,0 +1,64 @@
+---
+pagetitle: "Global Project"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br><br><br>
+
+## **KIA EV6 Driving Centre Development**
+
+![](https://img.shields.io/badge/Using-AdobeAnalytics-red)
+![](https://img.shields.io/badge/GoogleAnalytics-blue)
+
+![](https://img.shields.io/badge/Data Analysis-grey)
+![](https://img.shields.io/badge/Web Development-grey)
+![](https://img.shields.io/badge/Content Planning-grey)
+
+<br><br>
+
+<p align="center">
+<img src="images/ev6.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image] [Kia EV6 Driving Centre](https://worldwide.kia.com/int/VR-driving-center/index.html#/intro)
+</p>
+
+<br><br>
+
+### **1. Goal**
+
+- Increased awareness of both Kia's brand and first electric vehicle, EV6, by creating personalized digital test drive experience that complements physical test drives. 
+
+<br>
+
+### **2. Project Details**
+
+- Developed concepts and devised content for the personalized digital test drive cooperating with developers and web designers
+- Created global versions for 10 countries to effectively communicate and translate the benefits and features of the EV6.
+
+
+<br>
+
+### **3. Project Results**
+
+- Utilized online test drive experience in offline motor show in the Philippines
+- Received the [2021 SABRE Award](https://worldwide.kia.com/int/VR-driving-center/index.html#/intro) in the Global Campaign and Digital Platform categories.
+
+<br>
+
+### **4. Deployment**
+
+Please click [HERE](https://worldwide.kia.com/int/VR-driving-center/index.html#/intro) and explore KIA EV6 Driving Centre.
+
+<br>
+
+

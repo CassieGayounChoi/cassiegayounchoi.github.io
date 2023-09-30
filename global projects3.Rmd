@@ -1,0 +1,80 @@
+---
+pagetitle: "Global Project"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br><br><br>
+
+## **KIA Global VR Showroom UX/UI Improvement**
+
+![](https://img.shields.io/badge/Using-AdobeAnalytics-red)
+![](https://img.shields.io/badge/GoogleAnalytics-blue)
+
+![](https://img.shields.io/badge/Data Analysis-grey)
+![](https://img.shields.io/badge/Web Development-grey)
+
+<br><br>
+
+<p align="center">
+<img src="images/vr ver1.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image. Kia VR Showroom_version 1.0]
+</p>
+
+<p align="center">
+<img src="images/vr ver2.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image. Kia VR Showroom_version 2.0]
+</p>
+
+<p align="center">
+<img src="images/vr ver3.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image] [Kia VR Showroom_version 3.0 - India, Carens](https://www.kia.com/in/vr/showroom/index.html#/showroom)
+</p>
+
+<br><br>
+
+### **1. Goal**
+
+- Enhanced the live user experience on the VR Showroom during COVID-19 when offline experiences were restricted and maintained customer connection to Kia, resulting in potential sales. 
+
+<br>
+
+### **2. Project Details**
+
+- Analyzed VR showroom website traffic data using Adobe/Google Analytics in 4 regions: India, Mexico, Middle East Africa, and South America
+- Improved UX/UI of VR showroom, cooperating with developers, UX designers, and local/HQ managers to optimize the customer journey and enhance brand experiences and sales
+- Created UX/UI sample documents, which were presented to over 10 local managers
+- Managed over 30 countries' launch schedules in 4 regions using the project management tool 'Notion'
+
+
+<br>
+
+### **3. Project Results**
+
+- Increased online pre-booking rates by 45% on average by adding a 'Book Online' button from 1.0 – 2.0, leading to higher customer engagement
+- Improved average time spent in VR Showrooms by 68% through UX/UI updates from 1.0 - 2.0
+- Expanded to the Kia Asia Pacific region, resulting in a 21% increase in the team's revenue through further UX and UI updates, from 2.0 - 3.0
+
+<br>
+
+### **4. Deployment**
+
+Please click [HERE](https://www.kia.com/in/vr/showroom/index.html#/showroom) and explore KIA Global VR Showroom in India as an example.
+
+<br>
+
+
