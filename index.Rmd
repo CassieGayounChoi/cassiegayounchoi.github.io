@@ -20,15 +20,9 @@ output: html_document
 <br>
 
 #### **👋🏻 About me**
-Global data-driven marketer with 4 years of experience executing B2C/B2B marketing
+Global data-driven marketer with 4 years of experience executing B2C/B2B marketing strategies across multiple online/offline brand channels in various countries to enhance brand experience and generate sales leads.
 
-strategies across multiple online/offline brand channels in various countries
-
-to enhance brand experience and generate sales leads.
-
-Born in Korea, lived in Shanghai, China 🇨🇳 for 10 years, London, UK 🇬🇧for a year, 
-
-and New York, US 🇺🇸 for 6 months
+Born in Korea, lived in Shanghai, China 🇨🇳 for 10 years, London, UK 🇬🇧for a year, and New York, US 🇺🇸 for 6 months
 
 <br>
 
