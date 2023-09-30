@@ -14,36 +14,47 @@ output:
 
 <br><br><br>
 
-## **Kia Magazine**
+## **Kia Product Information Page**
+
+![](https://img.shields.io/badge/Content Planning-grey)
+![](https://img.shields.io/badge/Copywriting-grey)
 
 <br>
-** #Global_Marketing #Brand_Communication #Content_Planning #Editing**
-**Delivered Kia’s latest brand news, partnerships, and vehicle information through Korean and English articles on the Kia Worldwide website**
-
-<br><br><br>
-
-### 1. Screenshot of Dashboard
 
 <p align="center">
-<img src="images/squid_game.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/pip.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
+[Image] [Kia Australia Sportage](https://www.kia.com/au/cars/sportage/features.html)
 </p>
 
-<br><br><br>
+<br><br>
 
-### 2. Summary
+### **1. Goal**
 
-+ Squid Game is a South Korean survival drama television series streaming on Netflix.
-+ The series runs a contest where 456 players, and all of them are in debt, thereby playing multiple different types of children's games.
-+ The players soon realize that being eliminated means death, and prize money accrued as more and more people die.
-+ Game 1 an extremely lethl version of Red Light, Green Light, where anyone caught moving is shot dead on the spot. It generated the most casualites, 255 people, as `elimination=death` rule was not informed to the players beforehand.
+- Aligned copywriting for Kia websites with the brand voice to develop standardized global copy for launch of new vehicles.
 
-<br><br><br>
+<br>
 
-### 3. Tableau Public
+### **2. Project Details**
 
-For more insights, please check my Tableau Public by clicking [HERE](https://public.tableau.com/app/profile/davidhoskins/viz/SquidGameWARNINGMAJORSPOILERS/SquidGame).
+- Studied and filtered through all the materials provided by Kia HQ about the launching models.
+- Created copies for main concept, exterior, interior, and unique selling points of each model in line with the brand concept and the vehicle's concept.
+
+
+<br>
+
+### **3. Project Results**
+
+- Launched official websites for across over 20 countries.
+
+<br>
+
+### **4. Deployment**
+
+- Please click [HERE](https://www.kia.com/au/cars/sportage/features.html) and explore Kia Australia Sportage as an example.
+
+<br>
 
 
 
