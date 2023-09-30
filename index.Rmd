@@ -20,7 +20,9 @@ output: html_document
 #### **👋🏻 About me**
 Data-driven global marketer with 4 years of experience executing B2C/B2B marketing strategies across multiple online/offline brand channels in various countries to enhance brand experience and generate sales leads.
 
-Born in Korea 🇰🇷, lived in Shanghai, China 🇨🇳 for 10 years, London, UK 🇬🇧 for a year, and New York, US 🇺🇸 for 6 months.
+Born in 🇰🇷 Seoul, Korea 
+
+Lived in 🇨🇳 Shanghai, China for 10 years & 🇬🇧 England, UK for a year & 🇺🇸 New York, US for 6 months
 
 <br>
 
