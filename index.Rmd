@@ -1,5 +1,5 @@
 ---
-pagetitle: "Index"
+pagetitle: "Gayoun Choi"
 output: html_document
 ---
 
@@ -9,12 +9,14 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile_pic.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/profile_emoji.jpeg" style="width:50%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <br>
 
-<br><br><br>
-👋🏽 Hello, my name is Gayoun Choi.
+<br><br>
+
+## **Hello, I'm Gayoun Choi,**
+### **a data-driven B2C/B2B marketer**
 
 💼 B2B Marketing Specialist at Nespresso Korea, specially focus on marketing communication. 
 
