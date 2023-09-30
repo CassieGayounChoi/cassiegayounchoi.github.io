@@ -28,7 +28,7 @@ output:
 <img src="images/vr showroom exterior.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
-[Image. KIA Global VR Showroom - KIA India, Carens]
+[Image] [Kia VR Showroom - India,Carens](https://www.kia.com/in/vr/showroom/index.html#/showroom)
 </p>
 
 <br><br>
