@@ -67,7 +67,7 @@ output:
 
 - Increased online pre-booking rates by 45% on average by adding a 'Book Online' button from 1.0 – 2.0, leading to higher customer engagement
 - Improved average time spent in VR Showrooms by 68% through UX/UI updates from 1.0 - 2.0
-- Expanded to the Kia Asia Pacific region, resulting in a 21% increase in the team's revenue through further UX and UI updates, 2.0 - 3.0
+- Expanded to the Kia Asia Pacific region, resulting in a 21% increase in the team's revenue through further UX and UI updates, from 2.0 - 3.0
 
 <br>
 
