@@ -55,7 +55,7 @@ output:
 
 ### **2. Project Details**
 
-- Analyzed VR showroom website traffic data using Adobe/Google Analytics in 4 regions: India, Mexico, Middle East Africa, and South America
+- As a project manager, analyzed VR showroom website traffic data using Adobe/Google Analytics in 4 regions: India, Mexico, Middle East Africa, and South America
 - Improved UX/UI of VR showroom, cooperating with developers, UX designers, and local/HQ managers to optimize the customer journey and enhance brand experiences and sales
 - Created UX/UI sample documents, which were presented to over 10 local managers
 - Managed over 30 countries' launch schedules in 4 regions using the project management tool 'Notion'
