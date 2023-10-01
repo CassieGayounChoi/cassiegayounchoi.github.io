@@ -7,8 +7,6 @@ output_dir: "."
 navbar:
   title: "Gayoun Choi"
   left:
-    - text: "Tutorials"
-      href: tutorials.html
     - text: "Stat/ML"
       menu: 
       - text: "Predicting CLV Using Regression/ML"
