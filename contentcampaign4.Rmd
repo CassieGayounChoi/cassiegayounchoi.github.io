@@ -14,36 +14,69 @@ output:
 
 <br><br><br>
 
-## **Kia Magazine**
+## **Kakaobank Mini card Campaign**
+
+![](https://img.shields.io/badge/Brand Communication-grey)
+![](https://img.shields.io/badge/Social Media-grey)
+![](https://img.shields.io/badge/Digital Campaign-grey)
+
+<br><br>
+
+<p align="center">
+<img src="images/kakaobank ig.png" style="width:50%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image] [KAKAOBANK INSTAGRAM](https://www.instagram.com/kakaobank.official/)
+</p>
+
+<p align="center">
+<img src="images/minicard.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+</p>
+<p align="center">
+[Image] ['mini card’Instagram AR filter](https://www.instagram.com/p/CgB7KB2hq2L/)
+</p>
+<p align="center">
+[Image] ['mini card’Instagram Reels](https://www.instagram.com/reel/CkIEIC7hV4N/)
+</p>
+<p align="center">
+[Image] 'mini card’Instagram Story Stickers
+</p>
+<p align="center">
+[Image] ['mini card’Instagram Campaign 2021 ](https://www.instagram.com/p/CW5GmpkPZie/)
+</p>
+<p align="center">
+[Image] ['mini card’Instagram Campaign 2022 ](https://www.instagram.com/p/CljJSG4JytZ/)
+</p>
+
+<br><br>
+
+### **1. Goal**
+
+- Promoted ‘mini card’ targeting teenagers through social media campaigns.
 
 <br>
-** #Global_Marketing #Brand_Communication #Content_Planning #Editing**
-**Delivered Kia’s latest brand news, partnerships, and vehicle information through Korean and English articles on the Kia Worldwide website**
 
-<br><br><br>
+### **2. Project Details**
 
-### 1. Screenshot of Dashboard
+- Produced mini card promotion videos, 10 pieces of Instagram content, AR filters, and Instagram story stickers with designers and directors.
+- Monitored and analyzed performance of campaign ad performance using Excel and data sourced from Meta and Instagram.
 
-<p align="center">
-<img src="images/squid_game.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
-</p>
-<p align="center">
-</p>
 
-<br><br><br>
 
-### 2. Summary
+<br>
 
-+ Squid Game is a South Korean survival drama television series streaming on Netflix.
-+ The series runs a contest where 456 players, and all of them are in debt, thereby playing multiple different types of children's games.
-+ The players soon realize that being eliminated means death, and prize money accrued as more and more people die.
-+ Game 1 an extremely lethl version of Red Light, Green Light, where anyone caught moving is shot dead on the spot. It generated the most casualites, 255 people, as `elimination=death` rule was not informed to the players beforehand.
+### **3. Project Results**
 
-<br><br><br>
+- Achieved a 76% increase in event participants from 2021 to 2022 on the 'mini card' campaign targeting teenagers.
 
-### 3. Tableau Public
 
-For more insights, please check my Tableau Public by clicking [HERE](https://public.tableau.com/app/profile/davidhoskins/viz/SquidGameWARNINGMAJORSPOILERS/SquidGame).
+<br>
+
+### **4. Deployment**
+
+- Please click [KAKAOBANK INSTAGRAM](https://www.instagram.com/kakaobank.official/) and explore Kakaobank's latest stories.
+
+<br>
 
 
 
