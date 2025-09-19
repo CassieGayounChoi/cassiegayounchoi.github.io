@@ -1,7 +1,7 @@
 
 ---
 title: ""
-author: "Gayoun Choi"
+author: "Cassie Choi"
 date: 
 output: html_document
 ---
@@ -12,9 +12,9 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-## **Gayoun Choi**
-### B2B Marketing Specialist | Nespresso <img src="images/company_logo.jpeg" style="width:20%;" align="right">
+## **Cassie Choi**
+### Data Scientist
 
-📍 Seoul, Korea <br>
-📱 (82) 10 - 4824 - 0506 <br>
-✉️ [choigayounwork@gmail.com](mailto:choigayounwork@gmail.com) <br>
+📍 London, The United Kingdom <br>
+📱 (44) 7789 665883 <br>
+✉️ [cassie.gayoun.choi@gmail.com](mailto:cassie.gayoun.choi@gmail.com) <br>
