@@ -1,13 +1,13 @@
-name: "Gayoun Choi"
-title: "Gayoun Choi"
-pagetitle: "Gayoun Choi"
-base_url: https://gayounchoi.github.io/
+name: "Cassie Choi"
+title: "Cassie Choi"
+pagetitle: "Cassie Choi"
+base_url: https://cassiegayounchoi.github.io/
 google_analytics: "" # e.g. "UA-XXXXXXXXX-1", GA tracking code
 output_dir: "."
 navbar:
-  title: "Gayoun Choi"
+  title: "Cassie Choi"
   left:
-    - text: "Stat/ML"
+    - text: "Machine Learning/Data Science"
       menu: 
       - text: "Predicting CLV Using Regression/ML"
         href: stat1.html
@@ -39,11 +39,11 @@ navbar:
     - icon: fas fa-envelope
       href: contact.html
     - icon: ai-cv ai-lg
-      href: files/CV_Gayoun Choi.pdf
+      href: files/CV_CassieChoi.pdf
     - icon: fab fa-github
-      href: http://github.com/gayounchoi
+      href: http://github.com/cassiegayounchoi
     - icon: fab fa-linkedin-in
-      href: https://www.linkedin.com/in/gayounchoi/
+      href: https://www.linkedin.com/in/cassie-choi
     #- icon: ai-google-scholar ai-lg
     # href: https://scholar.google.com/
     # icon: ai-researchgate ai-lg
