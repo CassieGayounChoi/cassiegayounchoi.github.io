@@ -1,5 +1,5 @@
 ---
-pagetitle: "Stat/ML"
+pagetitle: "Machine Learning/Data Science"
 output:
   html_document:
     toc: true
