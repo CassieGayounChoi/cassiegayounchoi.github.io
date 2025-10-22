@@ -7,7 +7,7 @@ output_dir: "."
 navbar:
   title: "Cassie Choi"
   left:
-    - text: "Machine Learning/Data Science"
+    - text: "ML/Data Science"
       menu: 
       - text: "Predicting CLV Using Regression/ML"
         href: stat1.html
