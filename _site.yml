@@ -11,6 +11,10 @@ navbar:
       menu: 
       - text: "Predicting CLV Using Regression/ML"
         href: stat1.html
+
+      - text: "Predicting Bike Demand Using Regression/ML"
+        href: stat3.html
+        
     - text: "Global Projects"
       menu: 
       - text: "Kia Global VR showroom"
