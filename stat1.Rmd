@@ -52,7 +52,7 @@ output:
 
 ### **4. Code**
 
-Please click [HERE](https://nbviewer.org/github/gayounchoi/gayounchoi.github.io/blob/main/files/Predicting_CLV_using_regression_and_ML.ipynb) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/CassieGayounChoi/cassiegayounchoi.github.io/blob/main/files/Predicting_CLV_using_regression_and_ML.ipynb) for the analysis report and code.
 
 <br>
 
