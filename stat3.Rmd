@@ -13,10 +13,11 @@ output:
 <link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
 
 <br><br><br>
-
 ## **Predicting Hourly Bike Rental Demand Using Regression/ML**
 
-![](https://img.shields.io/badge/Using-Python-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Using-Python-blue" style="margin-top:10px; margin-bottom:20px;">
+</p>
 
 <p align="center">
   <img src="images/seoulbike.jpg" style="width:80%; border:0px solid; margin-right: 20px" align="center">
