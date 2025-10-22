@@ -42,7 +42,7 @@ output:
 
 ### **3. Methodology & Summary**
 
-- **Data:** Utilised the *Seoul Bike Sharing Demand* dataset from the UCI Machine Learning Repository, containing 8 weather and time-related features (e.g., temperature, windspeed, season, holiday, etc.) and hourly rental counts collected from Dec 2017 – Nov 2018.  
+- **Data:** Utilised the *Seoul Bike Sharing Demand dataset from the UCI Machine Learning Repository, containing 8 weather and time-related features (e.g., temperature, windspeed, season, holiday, etc.) and hourly rental counts collected from Dec 2017 – Nov 2018.  
 - **EDA:** Identified strong seasonal and hourly trends — rental peaks during commuting hours and warmer months. Minimal missing data ensured high-quality model input.  
 - **Feature Engineering: Created temporal features (hour, day of week, month, holiday) and weather-based categories (temperature and humidity ranges) to enhance model interpretability and predictive accuracy.  
 - **Modelling & Evaluation: Trained and compared **Linear Regression (R² = 0.66)**, **Random Forest (R² = 0.90)**, and **XGBoost (R² = 0.88)** using **cross-validation** for robust performance evaluation.  
