@@ -54,6 +54,7 @@ output:
 
 ### **4. Code**
 
-Please click **[HERE (nbviewer)](https://nbviewer.org/github/CassieGayounChoi/cassiegayounchoi.github.io/blob/main/files/Predicting%20Hourly%20Bike%20Rental%20Demand%20for%20Seoul%20Public%20Bike-Sharing%20Service.ipynb)** for the analysis report and code, or view it **[on GitHub](https://github.com/CassieGayounChoi/cassiegayounchoi.github.io/blob/main/files/Predicting%20Hourly%20Bike%20Rental%20Demand%20for%20Seoul%20Public%20Bike-Sharing%20Service.ipynb)**.
+Please click **[HERE (nbviewer)](https://nbviewer.org/github/CassieGayounChoi/cassiegayounchoi.github.io/blob/main/files/Predicting%20Hourly%20Bike%20Rental%20Demand%20for%20Seoul%20Public%20Bike-Sharing%20Service.ipynb?v=2)** for the analysis report and code, or view it **[on GitHub](https://github.com/CassieGayounChoi/cassiegayounchoi.github.io/blob/main/files/Predicting%20Hourly%20Bike%20Rental%20Demand%20for%20Seoul%20Public%20Bike-Sharing%20Service.ipynb?v=2)**.
+
 
 <br>
